@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: vedana, sans-serif;
+  background-color: #F9F3EE;
+  font-family: 'Square Peg', cursive;
+  font-size: 40px;
+}
+.top {
+  height: 150px;
+}
+.polaroid {
+  position: relative;
+  display: inline-block;
+  width: 15%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 15px 50px 25px;
+  padding: 5px 5px 10px;
+
+}
+
+.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.top {
+  height: 30px;
+}
+.text {
+  padding: 0 15px;
+  background-color: #CCF3EE;
+  height: 100px;
+}
+.FelizCumple {
+  padding: 40px;
+  background-color: #F9CEEE;
+}
+.FelizCumple2{
+  background-color: #F9CEEE;
+}
+.globos1 {
+  display: inline;
+  max-width: 200px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+  position: absolute;
+  left: 10%;
+  top: 50px;
+}
+.unic01 {
+  display: inline;
+  max-width: 200px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+  position: absolute;
+  right: 10%;
+  top: 20px;
+}
+.globos2 {
+  display: inline;
+  max-width: 200px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+  position: relative;
+  left: 40%;
+
+}
+.unic02 {
+  display: inline-block;
+  max-width: 200px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+  position: relative;
+  right: 40%;
+
+}
+.felizText {
+  position: relative;
+  bottom: 200px;
+}
